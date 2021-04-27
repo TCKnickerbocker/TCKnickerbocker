@@ -1,7 +1,7 @@
 // StackGen.java
-// A Generic Stack Interface
-// Identify the methods as absolutely necssary, nice to have, or redundant
-// 11/2020
+// A Possible Generic Stack Interface
+// Identify the methods as necssary, nice to have,
+// or redundant
 
 public interface StackGen <T> {
 
