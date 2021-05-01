@@ -1,4 +1,4 @@
--Hi, I’m Thomas Knickerbocker
+-Hi, I’m Thomas
 
 -I'm interested in front-end or back end development, but also the field of computer science in general as I am still studying
 and could easily have new passions spring up
