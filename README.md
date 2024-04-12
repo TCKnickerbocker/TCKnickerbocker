@@ -29,7 +29,7 @@
 <h3 align="left"> 
   My Stats: 
   </h3>
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker](https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker)" title="Github Stats" alt="GTS">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
 
 
 ## Experience
@@ -70,15 +70,13 @@ Concepts used: IPC, web servers, threads, mutex
 
 GitHub: https://github.com/TCKnickerbocker
 
-## Skills
-
-Python, JavaScript, React, C/C++, Java, Cloud, Jenkins, Git
 
 ## Education
 
 ### University of Minnesota
 
 ```
-● B.S. in Computer Science
+● B.S. in Computer Science (Dec. 2023)
+● M.S. in Computer Science (Exp. May 2025)
 ● GPA: 3.57
 ```
