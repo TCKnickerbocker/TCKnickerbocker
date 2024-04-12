@@ -70,9 +70,7 @@
   Concepts used: IPC, web servers, threads, mutex
   
   
-  ## Education
-  https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"> University of Minnesota </img>
+  ## Education      <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/280113088_374502778050118_6292159954873502892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFHhEs3o208Ab5agot3&_nc_ht=scontent-atl3-1.xx&oh=00_AfAZp_pn0uPPhFiLHji38E9COvA0xcH8UOcORUxfebmalw&oe=661E78AB" title="UMN" alt="UMN" width="40" height="40" /> University of Minnesota    <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/280113088_374502778050118_6292159954873502892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFHhEs3o208Ab5agot3&_nc_ht=scontent-atl3-1.xx&oh=00_AfAZp_pn0uPPhFiLHji38E9COvA0xcH8UOcORUxfebmalw&oe=661E78AB" title="UMN" alt="UMN" width="40" height="40" />
   ### 
   
   ```
