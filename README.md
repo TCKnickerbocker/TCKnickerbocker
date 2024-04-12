@@ -36,14 +36,13 @@
   
   ## Experience
   
-  ### Software Engineering Intern - AI, - Optum: Jun 2023 - Aug 2023
-  
+  ### Software Engineering Intern - AI, <img src="https://asset.brandfetch.io/idH8wjemWq/idl3vaVV0l.svg?updated=1668074635122" alt="optum" title="optum />Optum: Jun 2023 - Aug 2023
   ```
   ● Created a multithreaded streamlit chatbot in Python
   ● Setup etl pipeline to keep chatbot training data relevant 
   ```
   
-  ### Software Engineering Intern - Automation, Optum: Jun 2023 - Aug 2023
+  ### Software Engineering Intern - Automation, <img src="https://asset.brandfetch.io/idH8wjemWq/idl3vaVV0l.svg?updated=1668074635122" alt="optum" title="optum />Optum: Jun 2023 - Aug 2023
   
   ```
   ● Created front-end webpages in AngularJS and APIs in Java SpringBoot
