@@ -3,6 +3,7 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   ~~Thomas Knickerbocker~~
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
@@ -37,6 +38,7 @@
   ## Experience
   
   ### Software Engineering Intern - AI, Optum: Jun 2023 - Aug 2023
+  
   ```
   ● Created a multithreaded streamlit chatbot in Python
   ● Setup etl pipeline to keep chatbot training data relevant 
@@ -69,12 +71,12 @@
   Concepts used: IPC, web servers, threads, mutex
   
   
-  ## Education      
-  <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/280113088_374502778050118_6292159954873502892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFHhEs3o208Ab5agot3&_nc_ht=scontent-atl3-1.xx&oh=00_AfAZp_pn0uPPhFiLHji38E9COvA0xcH8UOcORUxfebmalw&oe=661E78AB" title="UMN" alt="UMN" width="40" height="40" /> **University of Minnesota**    <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/280113088_374502778050118_6292159954873502892_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kFHhEs3o208Ab5agot3&_nc_ht=scontent-atl3-1.xx&oh=00_AfAZp_pn0uPPhFiLHji38E9COvA0xcH8UOcORUxfebmalw&oe=661E78AB" title="UMN" alt="UMN" width="40" height="40" />
+  ## Education
+  
+  **University of Minnesota**
   
   ```
   ● B.S. in Computer Science (Dec. 2023)
   ● M.S. in Computer Science (Exp. May 2025)
-  ● M.S. Minor in Management of Technology (Exp. May 2025)
   ● GPA: 3.57
   ```
