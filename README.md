@@ -71,8 +71,9 @@
   
   
   ## Education
-  
-  ### University of Minnesota
+  https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"> University of Minnesota </img>
+  ### 
   
   ```
   ● B.S. in Computer Science (Dec. 2023)
