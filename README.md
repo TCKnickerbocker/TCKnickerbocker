@@ -3,18 +3,11 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   ~~Thomas Knickerbocker~~
-  <a href="https://www.linkedin.com/in/thomas-knickerbocker/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </h1>
 </div>
-  <style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
+<a href="https://www.linkedin.com/in/thomas-knickerbocker/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <div id="about-me">
     <h3 align="left">
       Languages and Tools:
@@ -37,10 +30,9 @@ mark{
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <h3 align="left"> 
-    My Stats: 
+    See More!: 
     </h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
-  
   
   ## Experience
   
