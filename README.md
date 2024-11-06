@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Thomas+Knickerbocker's+Profile;Software+Engineer;Lifelong+Learner+%26+Tech+Enthusiast)](https://git.io/typing-svg)
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thomas+Knickerbocker)](https://git.io/typingsvg)
     <img src="https://komarev.com/ghpvc/?username=TCKnickerbocker&style=flat-square&color=blue" alt=""/>
   </h1>
 </div>
