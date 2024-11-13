@@ -84,5 +84,5 @@
   ```
   ● B.S. in Computer Science (Dec. 2023)
   ● M.S. in Computer Science (Exp. May 2025)
-  ● GPA: 3.57
+  ● GPA: 3.58
   ```
