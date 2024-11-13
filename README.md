@@ -36,7 +36,13 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
   
   ## Experience
+
+  ### Consultant, Knick, LLC: Jun 2024 - Present
   
+  ```
+  ● CTech and business analytics consulting
+  ```
+
   ### Software Engineering Intern - AI, Optum: Jun 2023 - Aug 2023
   
   ```
@@ -59,9 +65,9 @@
   Concepts used: Web development, UI design, APIs
   
   
-  ### Resnet Neural Network
+  ### Resnet Image Classifier
   
-  A ResNet NN trained and tested on the CFAIR-10 Dataest \
+  A NN utilizing a deeplearning Resnet archetecture trained and tested on the CFAIR-10 Dataest \
   Concepts used: Convolutional Neural Networks, Image Classification, Output Visualization
   
   
