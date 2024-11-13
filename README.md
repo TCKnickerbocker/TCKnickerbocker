@@ -40,7 +40,7 @@
   ### Consultant, Knick, LLC: Jun 2024 - Present
   
   ```
-  ● CTech and business analytics consulting
+  ● Software, data science, and business analytics consulting
   ```
 
   ### Software Engineering Intern - AI, Optum: Jun 2023 - Aug 2023
