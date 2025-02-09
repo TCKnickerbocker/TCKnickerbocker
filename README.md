@@ -31,7 +31,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <h3 align="left"> 
-    See More!: 
+    See More: 
     </h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
   
