@@ -37,6 +37,12 @@
   
   ## Experience
 
+  ### Graduate Research Assistant, University of Minnesota: Jan 2024 - Present
+  
+  ```
+  ● ML Model-Building X Healthcare
+  ```
+
   ### Consultant, Knick, LLC: Jun 2024 - Present
   
   ```
