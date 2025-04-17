@@ -35,132 +35,151 @@
     </h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TCKnickerbocker" title="Github Stats" alt="Github Stats">
   
-  ## Experience
+## 🎓 Education
 
-  ### Graduate Research Assistant, University of Minnesota: Jan 2024 - Present
-  
-  ```
-  ● ML Model-Building x Healthcare
-  ```
+**University of Minnesota**  
+- **M.S. in Computer Science** – *Expected May 2025*  
+  - **Focus:** Machine Learning, Distributed Systems  
+  - Co-President, Generative AI Club  
+  - Undergraduate Student Mentor  
 
-  ### Consultant, Knick, LLC: Jun 2024 - Present
-  
-  ```
-  ● Software, data science, and business analytics consulting
-  ```
+- **B.S. in Computer Science** – Dec 2023  
+  - 3x Dean’s List Award Recipient  
+  - Committee Chair, AI Applied Club  
 
-  ### Software Engineering Intern - AI, Optum: Jun 2023 - Aug 2023
-  
-  ```
-  ● Created a multithreaded streamlit chatbot in Python
-  ● Setup etl pipeline to keep chatbot training data relevant 
-  ```
-  
-  ### Software Engineering Intern - Automation, Optum: Jun 2023 - Aug 2023
-  
-  ```
-  ● Created front-end webpages in AngularJS and APIs in Java SpringBoot
-  ● Automated creation of monthly financial reports via Python, SQL
-  ```
-  
-# 🚀 Project Portfolio
+---
+---
 
-## 🧠 Distributed Systems & Low-Level Projects  
+## 💼 Experience
+
+### 🧪 Graduate Research Assistant — *University of Minnesota*  
+**Jan 2024 – Present**  
+- Conducting machine learning research with applications in healthcare  
+- Focused on model building, performance evaluation, and healthcare integration  
+
+---
+
+### 📊 Consultant — *Knick, LLC*  
+**Jun 2024 – Present**  
+- Delivering software, data science, and business analytics solutions to clients  
+- Providing technical and strategic guidance on data-driven decision making  
+
+---
+
+### 🤖 Software Engineering Intern (AI) — *Optum*  
+**Jun 2023 – Aug 2023**  
+- Developed a multithreaded chatbot using Streamlit and Python  
+- Designed and implemented an ETL pipeline to maintain chatbot training data freshness  
+
+---
+
+### ⚙️ Software Engineering Intern (Automation) — *Optum*  
+**Jun 2022 – Aug 2022**  
+- Built front-end applications with AngularJS and back-end APIs with Java Spring Boot  
+- Automated monthly financial reporting using Python and SQL
+
+---
+---
+
+## 🚀 Project Portfolio
+
+### 🧠 Distributed Systems & Low-Level Projects  
 **Repos:** `OTKV_Store`, `RDT_Simulator`, `Client-Server_C`, `DNS_Client-Server`  
 Hands-on systems-level projects including a distributed key-value store and reliable data transfer simulations.  
 **Concepts used:** Distributed Hashing, Multithreading, Rust, Low-Latency Systems, RDT 3.0, DNS Protocols, C Sockets.
 
 ---
 
-## 🎲 Toy and Game Recommender  
+### 🎲 Toy and Game Recommender  
 **Repo:** `Toy_and_Game_Recommender`  
 Market-testing platform using containerized recommendation models and generative AI to create and personalize product suggestions.  
 **Concepts used:** Recommender Systems, ETL, Snowflake, Docker, Generative AI, FastAPI.
 
 ---
 
-## 📦 Let Me Cook  
+### 📦 Let Me Cook  
 **Repo:** `Let_Me_Cook`  
 A virtual pantry tracker built with React and Azure, helping users manage ingredients and discover relevant recipes.  
 **Concepts used:** React, NoSQL, Azure Functions, Recipe APIs.
 
 ---
 
-## 🛰️ Drone Simulation  
+### 🛰️ Drone Simulation  
 **Repo:** `Drone_Simulation`  
 Capstone project simulating a drone delivery service across the University of Minnesota campus using object-oriented design patterns.  
 **Concepts used:** Simulation Design, C++, Strategy/Observer Patterns, OOP.
 
 ---
 
-## 🎧 Mixtape.fm  
+### 🎧 Mixtape.fm  
 **Repo:** `Mixtape_App`  
 Web platform that allows users to link their Spotify playlists, edit them, and engage with the community by rating and commenting on playlists.  
 **Concepts used:** Spotify API, Python, Web Development.
 
 ---
 
-## 🎰 Multi-Armed Recommender Bandits  
+### 🎰 Multi-Armed Recommender Bandits  
 **Repo:** `Multi-armed-recommender-system-bandit-ensembles`  
 From-scratch implementation and evaluation of contextual bandits for recommender systems, replicating a published paper.  
 **Concepts used:** Reinforcement Learning, Bandit Algorithms, Ensemble Models, Jupyter.
 
 ---
 
-## 🚗 RC Car with Microcontroller  
+### 🚗 RC Car with Microcontroller  
 **Repo:** `RC_Car`  
 Remote-control car powered by the AtMega3208 microcontroller, exploring embedded systems and hardware control.  
 **Concepts used:** Embedded Systems, Microcontrollers, AVR, Makefile.
 
 ---
 
-## 🧬 Amino Contagiousness Neural Network  
+### 🧬 Amino Contagiousness Neural Network  
 **Repo:** `Amino_Contagiousness_NN`  
 Faux-research project investigating links between amino acid chains and viral contagiousness using neural networks.  
 **Concepts used:** Bioinformatics, Neural Networks, Numpy/Pandas, Data Cleaning.
 
 ---
 
-## 📅 Schedule Builder  
+### 📅 Schedule Builder  
 **Repo:** `ScheduleBuilder`  
 Full-stack web app allowing users to manage personal schedules and fetch real-time stock data.  
 **Concepts used:** Web Dev, Conflict Detection, AlphaVantage API, UI/UX.
 
 ---
 
-## 📸 CFAIR ResNet Classifier  
+### 📸 CFAIR ResNet Classifier  
 **Repo:** `CFAIR_Resnet`  
 Convolutional neural network trained on the CFAIR-10 dataset with result visualization.  
 **Concepts used:** CNNs, Deep Learning, Image Classification, PyTorch.
 
 ---
 
-## 📊 ML Projects (Math Focus)  
+### 📊 ML Projects (Math Focus)  
 **Repo:** `ML_Projects_Math_Focus`  
 Projects focusing on the mathematical intuition behind machine learning models.  
 **Concepts used:** Regression, Optimization, Statistics, Python.
 
 ---
 
-## 📈 ML Projects (Analysis Focus)  
+### 📈 ML Projects (Analysis Focus)  
 **Repo:** `ML_Projects-Analysis_Focus`  
 Machine learning experiments emphasizing data analysis and interpretability.  
 **Concepts used:** Exploratory Data Analysis, Scikit-learn, Visualization.
 
 ---
 
-## 🧬 COVID Genome Counting  
+### 🧬 COVID Genome Counting  
 **Repo:** `COVID_Genome_Counting`  
 Script to parse and analyze COVID-19 genomic data.  
 **Concepts used:** Genomics, Data Parsing, Python.
 
 ---
 
-## 🌱 Terraform Provisioning  
+### 🌱 Terraform Provisioning  
 **Repo:** `Terraform_Provisioning`  
 Demonstration of Terraform-based infrastructure setup with AWS integration.  
 **Concepts used:** Terraform, AWS, Infrastructure-as-Code.
 
+---
 ---
 
 ## 📜 Papers & Archives  
@@ -169,13 +188,3 @@ Demonstration of Terraform-based infrastructure setup with AWS integration.
 - `TCKnickerbocker.github.io`: Personal academic CV built using GitHub Pages.
 
   
-  
-  ## Education
-  
-  **University of Minnesota**
-  
-  ```
-  ● B.S. in Computer Science (Dec. 2023)
-  ● M.S. in Computer Science (Exp. May 2025)
-  ● GPA: 3.67
-  ```
