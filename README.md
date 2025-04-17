@@ -40,7 +40,7 @@
   ### Graduate Research Assistant, University of Minnesota: Jan 2024 - Present
   
   ```
-  ● ML Model-Building X Healthcare
+  ● ML Model-Building x Healthcare
   ```
 
   ### Consultant, Knick, LLC: Jun 2024 - Present
@@ -69,19 +69,19 @@
   
   A market-testing platform leveraging multiple containerized recommendation algorithms to elicit user interest. \
   Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation.
+  Concepts used: Recommender Systems, GPT, Containerization, Snowflake/Data Warehousing, AWS.
 
 
-  
   ### Schedule Builder
   
-  Developed a full-stack web app allowing users to upload and edit their schedules as desired. Checks for conflicting events, and includes a feature to allow users to check real-time stock data via AlphaVantage API \
-  Concepts used: Web development, UI design, APIs
+  Developed a full-stack web app allowing users to upload and edit their schedules as desired. Checks for conflicting events, and includes a feature to allow users to check real-time stock data via AlphaVantage API. \
+  Concepts used: Web development, UI design, APIs.
   
   
   ### Resnet Image Classifier
   
-  A NN utilizing a deeplearning Resnet archetecture trained and tested on the CFAIR-10 Dataest \
-  Concepts used: Convolutional Neural Networks, Image Classification, Output Visualization
+  A NN utilizing a deeplearning Resnet archetecture trained and tested on the CFAIR-10 Dataest. \
+  Concepts used: Convolutional Neural Networks, Image Classification, Output Visualization.
   
   
   ### Client & Server
