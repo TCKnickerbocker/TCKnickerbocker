@@ -63,31 +63,90 @@
   ● Automated creation of monthly financial reports via Python, SQL
   ```
   
-  ## Projects
+# 🚀 Project Portfolio
 
-  ### Toy and Game Recommender
-  
-  A market-testing platform leveraging multiple containerized recommendation algorithms to elicit user interest. \
-  Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation. \
-  **Concepts used:** Recommender Systems, Generative AI, Containerization, Snowflake/Data Warehousing, AWS.
+## 🧠 Distributed Systems Projects  
+**Repos:** `Distributed_Systems`, `OTKV_Store`, `RDT_Simulator`, `Client-Server_C`, `DNS_Client-Server`  
+Hands-on systems-level projects implementing distributed key-value stores, reliable data transfer protocols, and socket-based communication.  
+**Concepts used:** Distributed Hashing, Multithreading, Low-Latency Systems, RDT 3.0, DNS Protocol, C Sockets, Rust, Python.
 
+---
 
-  ### Schedule Builder
-  
-  Developed a full-stack web app allowing users to upload and edit their schedules as desired. Checks for conflicting events, and includes a feature to allow users to check real-time stock data via AlphaVantage API. \
-  **Concepts used:** Web development, UI design, APIs.
-  
-  
-  ### Resnet Image Classifier
-  
-  A NN utilizing a deeplearning Resnet archetecture trained and tested on the CFAIR-10 Dataest. \
-  **Concepts used:** Convolutional Neural Networks, Image Classification, Output Visualization.
-  
-  
-  ### Client & Server
-  
-  A client and a server, both constructed entirely in C. When ran concurrently, the client can request files and the server can deliver them. \
-  **Concepts used:** IPC, web servers, threads, mutex
+## 🎲 Toy and Game Recommender  
+**Repo:** `Toy_and_Game_Recommender`  
+Market-testing platform leveraging multiple containerized recommendation models, a custom caching system, and generative AI for creating and personalizing product recommendations.  
+**Concepts used:** Recommender Systems, ETL, Snowflake, Docker, Generative AI, AWS, FastAPI.
+
+---
+
+## 🧪 Distributed LLM Benchmarking  
+**Repo:** `Distributed_LLM_Benchmarking`  
+A benchmarking suite for analyzing latency, throughput, and deployment configurations of distributed LLMs across nodes.  
+**Concepts used:** LLMs, Benchmarking, Parallel Inference, Clustered Deployment, Python.
+
+---
+
+## 📦 Let Me Cook  
+**Repo:** `Let_Me_Cook`  
+A React and Azure-powered virtual pantry app that helps users manage their ingredients and find relevant recipes.  
+**Concepts used:** React, NoSQL, Azure Functions, Recipe APIs.
+
+---
+
+## 🛰️ Drone Simulation  
+**Repo:** `Drone_Simulation`  
+Simulated drone delivery system for the University of Minnesota campus. Designed with extensible architecture patterns.  
+**Concepts used:** Simulation Design, Observer/Strategy Patterns, OOP, JavaScript, HTML.
+
+---
+
+## 🎧 Mixtape.fm  
+**Repos:** `Mixtape_App`, `Mixtape.fm`  
+Web platform for collaborative playlist editing and sharing, integrating Spotify APIs for playlist access and social features.  
+**Concepts used:** Spotify API, Next.js, Python, TypeScript, React.
+
+---
+
+## 🎰 Multi-Armed Recommender Bandits  
+**Repo:** `Multi-armed-recommender-system-bandit-ensembles`  
+Replication and testing of a research paper using contextual bandits for improving recommendation accuracy.  
+**Concepts used:** Reinforcement Learning, Bandit Algorithms, Ensemble Methods, Jupyter.
+
+---
+
+## 🚗 RC Car with Bluetooth  
+**Repos:** `RC_Car`, `AtMegaBluetoothComms`  
+Microcontroller-based RC car built using the AtMega3208. Supports Bluetooth communication for remote control.  
+**Concepts used:** Embedded Systems, Microcontrollers, Bluetooth Comms, Makefile, AVR.
+
+---
+
+## 📅 Schedule Builder  
+**Repo:** `ScheduleBuilder`  
+Full-stack app for managing user schedules with real-time stock integration.  
+**Concepts used:** Web Dev, Conflict Detection, AlphaVantage API, UI/UX Design.
+
+---
+
+## 🧬 Amino Contagiousness Neural Network  
+**Repo:** `Amino_Contagiousness_NN`  
+Faux-research project examining amino acid patterns linked to contagiousness using neural networks.  
+**Concepts used:** Bioinformatics, Neural Networks, Data Cleaning.
+
+---
+
+## 🧠 ML Projects  
+**Repos:** `ML_Projects_Math_Focus`, `ML_Projects-Analysis_Focus`  
+A collection of small ML projects focused on mathematical foundations and statistical analysis.  
+**Concepts used:** Regression, Clustering, Feature Engineering, Scikit-learn, Matplotlib.
+
+---
+
+## 📸 CFAIR ResNet Classifier  
+**Repo:** `CFAIR_Resnet`  
+ResNet-style CNN classifier trained on the CFAIR-10 image dataset with visual output analysis.  
+**Concepts used:** Deep Learning, CNNs, PyTorch, Data Augmentation.
+
   
   
   ## Education
