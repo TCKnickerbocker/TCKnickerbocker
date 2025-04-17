@@ -69,7 +69,7 @@
   
   A market-testing platform leveraging multiple containerized recommendation algorithms to elicit user interest. \
   Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation. \
-  **Concepts used:** Recommender Systems, GPT, Containerization, Snowflake/Data Warehousing, AWS.
+  **Concepts used:** Recommender Systems, Generative AI, Containerization, Snowflake/Data Warehousing, AWS.
 
 
   ### Schedule Builder
