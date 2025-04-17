@@ -65,87 +65,108 @@
   
 # 🚀 Project Portfolio
 
-## 🧠 Distributed Systems Projects  
-**Repos:** `Distributed_Systems`, `OTKV_Store`, `RDT_Simulator`, `Client-Server_C`, `DNS_Client-Server`  
-Hands-on systems-level projects implementing distributed key-value stores, reliable data transfer protocols, and socket-based communication.  
-**Concepts used:** Distributed Hashing, Multithreading, Low-Latency Systems, RDT 3.0, DNS Protocol, C Sockets, Rust, Python.
+## 🧠 Distributed Systems & Low-Level Projects  
+**Repos:** `OTKV_Store`, `RDT_Simulator`, `Client-Server_C`, `DNS_Client-Server`  
+Hands-on systems-level projects including a distributed key-value store and reliable data transfer simulations.  
+**Concepts used:** Distributed Hashing, Multithreading, Rust, Low-Latency Systems, RDT 3.0, DNS Protocols, C Sockets.
 
 ---
 
 ## 🎲 Toy and Game Recommender  
 **Repo:** `Toy_and_Game_Recommender`  
-Market-testing platform leveraging multiple containerized recommendation models, a custom caching system, and generative AI for creating and personalizing product recommendations.  
-**Concepts used:** Recommender Systems, ETL, Snowflake, Docker, Generative AI, AWS, FastAPI.
-
----
-
-## 🧪 Distributed LLM Benchmarking  
-**Repo:** `Distributed_LLM_Benchmarking`  
-A benchmarking suite for analyzing latency, throughput, and deployment configurations of distributed LLMs across nodes.  
-**Concepts used:** LLMs, Benchmarking, Parallel Inference, Clustered Deployment, Python.
+Market-testing platform using containerized recommendation models and generative AI to create and personalize product suggestions.  
+**Concepts used:** Recommender Systems, ETL, Snowflake, Docker, Generative AI, FastAPI.
 
 ---
 
 ## 📦 Let Me Cook  
 **Repo:** `Let_Me_Cook`  
-A React and Azure-powered virtual pantry app that helps users manage their ingredients and find relevant recipes.  
+A virtual pantry tracker built with React and Azure, helping users manage ingredients and discover relevant recipes.  
 **Concepts used:** React, NoSQL, Azure Functions, Recipe APIs.
 
 ---
 
 ## 🛰️ Drone Simulation  
 **Repo:** `Drone_Simulation`  
-Simulated drone delivery system for the University of Minnesota campus. Designed with extensible architecture patterns.  
-**Concepts used:** Simulation Design, Observer/Strategy Patterns, OOP, JavaScript, HTML.
+Capstone project simulating a drone delivery service across the University of Minnesota campus using object-oriented design patterns.  
+**Concepts used:** Simulation Design, C++, Strategy/Observer Patterns, OOP.
 
 ---
 
 ## 🎧 Mixtape.fm  
-**Repos:** `Mixtape_App`, `Mixtape.fm`  
-Web platform for collaborative playlist editing and sharing, integrating Spotify APIs for playlist access and social features.  
-**Concepts used:** Spotify API, Next.js, Python, TypeScript, React.
+**Repo:** `Mixtape_App`  
+Web platform that allows users to link their Spotify playlists, edit them, and engage with the community by rating and commenting on playlists.  
+**Concepts used:** Spotify API, Python, Web Development.
 
 ---
 
 ## 🎰 Multi-Armed Recommender Bandits  
 **Repo:** `Multi-armed-recommender-system-bandit-ensembles`  
-Replication and testing of a research paper using contextual bandits for improving recommendation accuracy.  
-**Concepts used:** Reinforcement Learning, Bandit Algorithms, Ensemble Methods, Jupyter.
+From-scratch implementation and evaluation of contextual bandits for recommender systems, replicating a published paper.  
+**Concepts used:** Reinforcement Learning, Bandit Algorithms, Ensemble Models, Jupyter.
 
 ---
 
-## 🚗 RC Car with Bluetooth  
-**Repos:** `RC_Car`, `AtMegaBluetoothComms`  
-Microcontroller-based RC car built using the AtMega3208. Supports Bluetooth communication for remote control.  
-**Concepts used:** Embedded Systems, Microcontrollers, Bluetooth Comms, Makefile, AVR.
-
----
-
-## 📅 Schedule Builder  
-**Repo:** `ScheduleBuilder`  
-Full-stack app for managing user schedules with real-time stock integration.  
-**Concepts used:** Web Dev, Conflict Detection, AlphaVantage API, UI/UX Design.
+## 🚗 RC Car with Microcontroller  
+**Repo:** `RC_Car`  
+Remote-control car powered by the AtMega3208 microcontroller, exploring embedded systems and hardware control.  
+**Concepts used:** Embedded Systems, Microcontrollers, AVR, Makefile.
 
 ---
 
 ## 🧬 Amino Contagiousness Neural Network  
 **Repo:** `Amino_Contagiousness_NN`  
-Faux-research project examining amino acid patterns linked to contagiousness using neural networks.  
-**Concepts used:** Bioinformatics, Neural Networks, Data Cleaning.
+Faux-research project investigating links between amino acid chains and viral contagiousness using neural networks.  
+**Concepts used:** Bioinformatics, Neural Networks, Numpy/Pandas, Data Cleaning.
 
 ---
 
-## 🧠 ML Projects  
-**Repos:** `ML_Projects_Math_Focus`, `ML_Projects-Analysis_Focus`  
-A collection of small ML projects focused on mathematical foundations and statistical analysis.  
-**Concepts used:** Regression, Clustering, Feature Engineering, Scikit-learn, Matplotlib.
+## 📅 Schedule Builder  
+**Repo:** `ScheduleBuilder`  
+Full-stack web app allowing users to manage personal schedules and fetch real-time stock data.  
+**Concepts used:** Web Dev, Conflict Detection, AlphaVantage API, UI/UX.
 
 ---
 
 ## 📸 CFAIR ResNet Classifier  
 **Repo:** `CFAIR_Resnet`  
-ResNet-style CNN classifier trained on the CFAIR-10 image dataset with visual output analysis.  
-**Concepts used:** Deep Learning, CNNs, PyTorch, Data Augmentation.
+Convolutional neural network trained on the CFAIR-10 dataset with result visualization.  
+**Concepts used:** CNNs, Deep Learning, Image Classification, PyTorch.
+
+---
+
+## 📊 ML Projects (Math Focus)  
+**Repo:** `ML_Projects_Math_Focus`  
+Projects focusing on the mathematical intuition behind machine learning models.  
+**Concepts used:** Regression, Optimization, Statistics, Python.
+
+---
+
+## 📈 ML Projects (Analysis Focus)  
+**Repo:** `ML_Projects-Analysis_Focus`  
+Machine learning experiments emphasizing data analysis and interpretability.  
+**Concepts used:** Exploratory Data Analysis, Scikit-learn, Visualization.
+
+---
+
+## 🧬 COVID Genome Counting  
+**Repo:** `COVID_Genome_Counting`  
+Script to parse and analyze COVID-19 genomic data.  
+**Concepts used:** Genomics, Data Parsing, Python.
+
+---
+
+## 🌱 Terraform Provisioning  
+**Repo:** `Terraform_Provisioning`  
+Demonstration of Terraform-based infrastructure setup with AWS integration.  
+**Concepts used:** Terraform, AWS, Infrastructure-as-Code.
+
+---
+
+## 📜 Papers & Archives  
+- `Old_Projects`: Archive of early programming exercises (OCaml, more).  
+- `Papers`: Past papers, essays, & project writeups I've worked on. 
+- `TCKnickerbocker.github.io`: Personal academic CV built using GitHub Pages.
 
   
   
