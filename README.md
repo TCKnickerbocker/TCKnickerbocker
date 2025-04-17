@@ -64,6 +64,13 @@
   ```
   
   ## Projects
+
+  ### Toy and Game Recommender
+  
+  A market-testing platform leveraging multiple containerized recommendation algorithms to elicit user interest. \
+  Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation.
+
+
   
   ### Schedule Builder
   
@@ -90,5 +97,5 @@
   ```
   ● B.S. in Computer Science (Dec. 2023)
   ● M.S. in Computer Science (Exp. May 2025)
-  ● GPA: 3.58
+  ● GPA: 3.67
   ```
