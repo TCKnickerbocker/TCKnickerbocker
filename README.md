@@ -68,26 +68,26 @@
   ### Toy and Game Recommender
   
   A market-testing platform leveraging multiple containerized recommendation algorithms to elicit user interest. \
-  Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation.
-  Concepts used: Recommender Systems, GPT, Containerization, Snowflake/Data Warehousing, AWS.
+  Involves a multithreaded ETL pipeline for product ingestion, a high-speed custom caching system, and generative AI for creating personalized product creation. \
+  **Concepts used:** Recommender Systems, GPT, Containerization, Snowflake/Data Warehousing, AWS.
 
 
   ### Schedule Builder
   
   Developed a full-stack web app allowing users to upload and edit their schedules as desired. Checks for conflicting events, and includes a feature to allow users to check real-time stock data via AlphaVantage API. \
-  Concepts used: Web development, UI design, APIs.
+  **Concepts used:** Web development, UI design, APIs.
   
   
   ### Resnet Image Classifier
   
   A NN utilizing a deeplearning Resnet archetecture trained and tested on the CFAIR-10 Dataest. \
-  Concepts used: Convolutional Neural Networks, Image Classification, Output Visualization.
+  **Concepts used:** Convolutional Neural Networks, Image Classification, Output Visualization.
   
   
   ### Client & Server
   
   A client and a server, both constructed entirely in C. When ran concurrently, the client can request files and the server can deliver them. \
-  Concepts used: IPC, web servers, threads, mutex
+  **Concepts used:** IPC, web servers, threads, mutex
   
   
   ## Education
