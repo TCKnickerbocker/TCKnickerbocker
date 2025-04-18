@@ -48,7 +48,6 @@
   - Committee Chair, AI Applied Club  
 
 ---
----
 
 ## 💼 Experience
 
@@ -78,7 +77,6 @@
 - Built front-end applications with AngularJS and back-end APIs with Java Spring Boot  
 - Automated monthly financial reporting using Python and SQL
 
----
 ---
 
 ## 🚀 Project Portfolio
@@ -179,7 +177,6 @@ Script to parse and analyze COVID-19 genomic data.
 Demonstration of Terraform-based infrastructure setup with AWS integration.  
 **Concepts used:** Terraform, AWS, Infrastructure-as-Code.
 
----
 ---
 
 ## 📜 Papers & Archives  
